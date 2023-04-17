@@ -1,0 +1,48 @@
+h1{
+	padding-left: 240px;
+	width: 197px;
+	height: 38px;
+	font-size: 32px;
+}
+.paragrap_style{
+	width: 400px;
+	padding-left: 240px;
+	display: inline-block;
+	vertical-align:bottom;
+	display: inline-block;
+
+}
+.paragrap_style1{
+	width: 400px;
+	padding-left: 240px;
+	vertical-align: bottom;
+}
+span{
+	color: #0A22F4;
+}
+.picture{
+	margin-left: 900px;
+	width: 500px;
+	vertical-align: bottom;
+	display: inline-block;
+	margin-top: -300px;
+	margin-left: 690px;
+}
+h2{
+	font-size: 32px;
+	padding-left: 800px;
+}
+.paragrap_style2{
+	width: 400px;
+	padding-left: 800px;
+	display:block;
+}
+.picture2{
+	width: 500px;
+	margin-left: 240px;
+	margin-top: -200px;
+
+}
+.wrapper2{
+	padding-top: 240px;
+}
